@@ -9,7 +9,7 @@ function check(){
         case "Baden-Württemberg" && "BaWü" :
         output.textContent = `${bundesLand.value} hat 10,880 Mio Einwohner und Stuttgart ist die Hauptstadt.`;
         break;
-        case "Bayern" && "bayern":
+        case "Bayern":
         output.textContent = `${bundesLand.value} hat 12,844 Mio Einwohner und München ist die Hauptstadt.`;
         break;
         case "Berlin" :
